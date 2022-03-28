@@ -6,6 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Academic # Website name
 baseurl: 'https://coskunerden.github.io/' # Website URL
+publishDir: "../coskunerden.github.io"
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
