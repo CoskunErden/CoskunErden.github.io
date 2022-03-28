@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 'I have 4 years of experience using R'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 'I will have a Master of Science degree in Statistics'
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 'I can communicate in Turkish, English and Albanian'
+  icon: language
+  icon_pack: fa
+  name: Language
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

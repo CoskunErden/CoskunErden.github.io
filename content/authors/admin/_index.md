@@ -16,7 +16,7 @@ interests:
 organizations:
 - name: Iowa State University
   url: https://www.iastate.edu/
-role: Research Assistant
+role: Ph.D. Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,6 +40,6 @@ superuser: true
 title: Coskun Erden
 ---
 
-Coskun is a Ph.D. Candidate of Mathematics Education and Master's student in Statistics at Iowa State University. He collaborates with Dr. Ji-Yeong in the NSF-funded IM2EB project that aims to build teacher capacity for implementing mathematical modeling lessons by involving teachers in co-planning and co-teaching with researchers who are experts in Emergent Bilingual mathematics instruction. Coskun was a member of the 2020-2021 cohort of the CADRE-fellows program. He is currently investigating the role of parental involvement and institutional agent support in students' mathematics course taking in high school for his dissertation, with a focus on immigrant students.
+Co&#x15F;kun is a Ph.D. Candidate of Mathematics Education and Master's student in Statistics at Iowa State University. He collaborates with Dr. Ji-Yeong in the NSF-funded IM2EB project that aims to build teacher capacity for implementing mathematical modeling lessons by involving teachers in co-planning and co-teaching with researchers who are experts in Emergent Bilingual mathematics instruction. Coskun was a member of the 2020-2021 cohort of the CADRE-fellows program. He is currently investigating the role of parental involvement and institutional agent support in students' mathematics course taking in high school for his dissertation, with a focus on immigrant students.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
