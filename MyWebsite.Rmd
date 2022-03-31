@@ -1,0 +1,8 @@
+---
+title: "ProblemsEncountered"
+---
+
+My website address: "https://coskunerden.netlify.app/"
+
+
+I ran into a number of issues, the most serious of which was working in an online-synced box folder. My work had to be reset a few times. I strongly advise against working in such a folder. I transferred my project folder to a local location to solve the problem.

@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 'I have 4 years of experience using R'
+- description: '4 years of experience'
   icon: r-project
   icon_pack: fab
   name: R
-- description: 'I will have a Master of Science degree in Statistics'
+- description: 'Masters student'
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 'I can communicate in Turkish, English and Albanian'
+- description: 'Turkish, English and Albanian'
   icon: language
   icon_pack: fa
   name: Language
