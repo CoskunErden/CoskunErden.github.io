@@ -5,4 +5,4 @@ title: "ProblemsEncountered"
 My website address: "https://coskunerden.netlify.app/"
 
 
-I ran into a number of issues, the most serious of which was working in an online-synced box folder. My work had to be reset a few times. I strongly advise against working in such a folder. I transferred my project folder to a local location to solve the problem.
+I ran into a number of issues when creating the website, the most serious of which was working in an online-synced box folder. My work had to be reset a few times. I strongly advise against working in such a folder. I transferred my project folder to a local location to solve the problem. It was a challenge for me to create the NSF and Iowa State University icons that I utilized in the experiences section. But, fortunately, I was able to create and use the appropriate svg files.
